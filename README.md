@@ -48,7 +48,7 @@ Once the timer reaches its end goal, it will preform this mario jingle. The note
 
 **Wavelength Note equivilance** 
 
-|Notes          | Wavelength (cm)|
+|Notes          | Wavelength cm)|
 | ------------- | ---------------|
 | E             | 659            | 
 | c             | 523            |  
