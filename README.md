@@ -44,9 +44,9 @@ This arduino project is inspired by the "Arduino Projects Book" project 8 by Sco
 
 <img src = "Project Pictures/Mario Intro Sheet Music.PNG" width="900" height="400">
 
-Once the timer reaches its end goal, it will preform this mario jingle. The notes are as follows: E E E C E G G. Becuase a piezo plays soundwaves, it is essiential to transform each note into its soundwave equivalents and play them in order while accounting for rhythm.
+Once the timer reaches its end goal, it will preform this mario jingle. The notes are as follows: E E E C E G G. Becuase a piezo plays Wavelength, it is essiential to transform each note into its Wavelength equivalent and play them in order while accounting for rhythm.
 
-**Soundwave Note equivilance** 
+**Wavelength Note equivilance** 
 
 |Notes          | Wavelength (cm)|
 | ------------- | ---------------|
@@ -55,3 +55,8 @@ Once the timer reaches its end goal, it will preform this mario jingle. The note
 | High G        | 784            |   
 | Low G         | 392            | 
 
+# Sources and References
+
+ - [Arduino](https://www.arduino.cc/)
+ - [Arduino Uno](https://store.arduino.cc/usa/arduino-starter-kit)
+ - [Music Note Wavelengths](https://pages.mtu.edu/~suits/notefreqs.html)
