@@ -34,6 +34,7 @@ This arduino project is inspired by the "Arduino Projects Book" project 8 by Sco
  <img src="Project Pictures/Arduino Blueprints.jpg" width="700" height="400">
  
  **Arduino Schematics with Piezo**
+ 
  <img src="Project Pictures/Arduino Timer Schematic.jpg"  width="700" height="400">
  
  note that the piezo is connected to port 13 on the arduino and ground.
