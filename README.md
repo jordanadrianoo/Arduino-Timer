@@ -47,3 +47,11 @@ This arduino project is inspired by the "Arduino Projects Book" project 8 by Sco
 Once the timer reaches its end goal, it will preform this mario jingle. The notes are as follows: E E E C E G G. Becuase a piezo plays soundwaves, it is essiential to transform each note into its soundwave equivalents and play them in order while accounting for rhythm.
 
 **Soundwave Note equivilance** 
+
+|Notes          | Wavelength (cm)|
+| ------------- | ---------------|
+| E             | 659            | 
+| c             | 523            |  
+| High G        | 784            |   
+| Low G         | 392            | 
+
