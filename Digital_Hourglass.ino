@@ -3,7 +3,7 @@ unsigned long previousTime=0;
 int switchState=0;
 int prevSwitchState=0;
 int led=1;
-long interval = 50;
+long interval = 1000; // this interval determins the how long the timer is
 
 void setup() 
 { 
