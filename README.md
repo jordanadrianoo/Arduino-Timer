@@ -40,3 +40,10 @@ This arduino project is inspired by the "Arduino Projects Book" project 8 by Sco
  *Note that the piezo is connected to port 13 on the arduino and ground on the breadboard*
  
  
+# Jingle Sheet Music
+
+<img src = "Project Pictures/Mario Intro Sheet Music.PNG" width="900" height="400">
+
+Once the timer reaches its end goal, it will preform this mario jingle. The notes are as follows: E E E C E G G. Becuase a piezo plays soundwaves, it is essiential to transform each note into its soundwave equivalents and play them in order while accounting for rhythm.
+
+**Soundwave Note equivilance** 
