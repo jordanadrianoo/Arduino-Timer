@@ -3,7 +3,7 @@ unsigned long previousTime=0;
 int switchState=0;
 int prevSwitchState=0;
 int led=1;
-long interval = 500;
+long interval = 50;
 
 void setup() 
 { 
@@ -32,33 +32,42 @@ void loop()
     led++;
     Serial.println(led);
 
-    if(led==8)
+    if(led==8) // plays mario intro jingle
     {
-     tone(13,558.84);
+     tone(13, 659); // E Note
      delay(100);
      noTone(13);
-     delay(70);
+     delay(100);
      
-     tone(13,558.84);
+     tone(13,659); // E Note
      delay(100);
      noTone(13);
-     delay(70);
+     delay(100);
      
-     tone(13,558.84);
-     delay(100);
+     tone(13,659); // E Note
+     delay(300);
      noTone(13);
-     delay(50);
+     delay(100);
 
-     tone(13,664.57);
-     delay(50);
-     noTone(13);
-     delay(100);
-     
-     tone(13,837.31);
+     tone(13,523); // C Note
      delay(100);
      noTone(13);
      delay(100);
      
+     tone(13,659); // E Note
+     delay(200);
+     noTone(13);
+     delay(200);
+
+     tone(13,784); // High G Note
+     delay(400);
+     noTone(13);
+     delay(400);
+
+     tone(13,392); // Low G Note
+     delay(400);
+     noTone(13);
+     delay(200);
     }
   }
 
