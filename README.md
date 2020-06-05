@@ -19,6 +19,7 @@ This arduino project is inspired by the "Arduino Projects Book" project 8 by Sco
 
  **Resistor Reference Chart**
   
+  
  <img src="Project Pictures/Resistor-Chart.png" width="700" height="600">
  
  **Software:**
