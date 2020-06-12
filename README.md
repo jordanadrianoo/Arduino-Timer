@@ -60,7 +60,6 @@ Once the timer reaches its end goal, it will preform this mario jingle. The note
 
 # Sources and References
 
-
  - [Arduino](https://www.arduino.cc/)
  - [Arduino Uno](https://store.arduino.cc/usa/arduino-starter-kit)
  - [Music Note Wavelengths](https://pages.mtu.edu/~suits/notefreqs.html)
